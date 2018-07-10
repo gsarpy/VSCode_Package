@@ -1,2 +1,2 @@
-# VSCode_Settings
-Preferred settings for VSCode
+# VSCode_Package
+Preferred settings for VSCode. Color themes, editor settings, and list of extensions. 
